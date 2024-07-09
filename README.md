@@ -2,4 +2,4 @@
 #hjhj
 #####
 :✅ 🎆
-<span style="color:blue; блабла">Этот текст будет синим</span>
+<span style="color:blue;">Привет</span>
