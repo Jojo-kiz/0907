@@ -2,4 +2,4 @@
 #hjhj
 #####
 :✅ 🎆
-<font color="blue">Привет</font>
+<span style="color:blue;">Привет</span>
